@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PopulationSite/static/css/main.8cfad02d.css",
+    "main.js": "/PopulationSite/static/js/main.6ed24e08.js",
+    "static/js/787.28cb0dcd.chunk.js": "/PopulationSite/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/PopulationSite/index.html",
+    "main.8cfad02d.css.map": "/PopulationSite/static/css/main.8cfad02d.css.map",
+    "main.6ed24e08.js.map": "/PopulationSite/static/js/main.6ed24e08.js.map",
+    "787.28cb0dcd.chunk.js.map": "/PopulationSite/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cfad02d.css",
+    "static/js/main.6ed24e08.js"
+  ]
+}
